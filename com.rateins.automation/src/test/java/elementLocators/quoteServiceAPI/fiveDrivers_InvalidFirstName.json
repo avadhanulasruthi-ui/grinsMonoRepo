@@ -1,0 +1,71 @@
+{
+    "policy_type": "auto",
+    "auto": {
+        "primary_driver": {
+            "date_of_birth": "1980-03-17T00:00:00.000-05:00",
+            "first_name": "",
+            "gender": "Male",
+            "last_name": "Doe",
+            "marital_status": "Married",
+            "phone_number": "5555555555"
+        },
+        "additional_drivers": [{
+            "date_of_birth": "1980-03-17T00:00:00.000-05:00",
+            "first_name": "",
+            "gender": "Male",
+            "last_name": "Doe",
+            "marital_status": "",
+            "phone_number": ""
+        },
+        {
+            "date_of_birth": "1988-03-17T00:00:00.000-05:00",
+            "first_name": "",
+            "gender": "Female",
+            "last_name": "Lucas",
+            "marital_status": "",
+            "phone_number": ""
+        },
+        {
+            "date_of_birth": "1988-03-17T00:00:00.000-05:00",
+            "first_name": "",
+            "gender": "Female",
+            "last_name": "Smith",
+            "marital_status": "",
+            "phone_number": ""
+        },
+         {
+            "date_of_birth": "1988-03-17T00:00:00.000-05:00",
+            "first_name": "",
+            "gender": "Female",
+            "last_name": "Doe",
+            "marital_status": "",
+            "phone_number": ""
+        }],
+        "property": {
+            "apt_suite_number": "",
+            "city": "Mason",
+            "purchase_date": "11/20/2020",
+            "state": "OH",
+            "street_name": "Riverside Drive",
+            "street_number": "3535",
+            "zip": "45040"
+        },
+        "vehicles": [{
+            "details": {
+                "miles": "7000",
+                "ownership": "Owned",
+                "usage": "To/From Work"
+            },
+            "year_make_model": {
+                "make": "AUDI",
+                "model": "A3 PREMIUM",
+                "sub_model": {
+                    "description": "SEDAN 4 Front 2.0L Gas",
+                    "vin": "WAUAUHFF5L1111111"
+                },
+                "year": "2022"
+            }
+        }]
+    },
+    "lead_id": "50e94f2d-0826-4bf0-b1f4-238a3fddb26e"
+}

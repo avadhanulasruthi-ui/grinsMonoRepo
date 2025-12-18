@@ -1,0 +1,45 @@
+{
+    "policy_type": "auto",
+    "auto": {
+        "primary_driver": {
+            "marital_status": "Married",
+            "gender": "Male",
+            "date_of_birth": "1980-03-17",
+            "last_name": "Hopkins",
+            "phone_number": "5555555555",
+            "first_name": "John"
+        },
+        "additional_drivers": [{
+            "date_of_birth": "1980-03-17T00:00:00.000-05:00",
+            "first_name": "John",
+            "gender": "Male",
+            "last_name": "Doe",
+            "marital_status": "",
+            "phone_number": ""
+        }],
+        "property": {
+            "zip": "45040",
+            "city": "Mason",
+            "street_number": "3535",
+            "state": "OH",
+            "street_name": "Riverside Drive"
+        },
+        "vehicles": [{
+            "year_make_model": {
+                "sub_model": {
+                    "description": "COUPE 2 Rear 2.0L Gas",
+                    "vin": "WBA2J1C06N1111111"
+                },
+                "year": "2022",
+                "model": "230I",
+                "make": "BMW"
+            },
+            "details": {
+                "ownership": "Owned",
+                "usage": "",
+                "miles": "7000"
+            }
+        }]
+    },
+    "lead_id": "50e94f2d-0826-4bf0-b1f4-238a3fddb26e"
+}

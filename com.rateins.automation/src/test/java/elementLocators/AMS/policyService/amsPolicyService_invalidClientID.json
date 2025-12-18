@@ -1,0 +1,37 @@
+{
+    "client_id": "",
+    "agreement_id": 0,
+    "policy_description": "Homeowners Policy",
+    "effective_date": "2023-08-08T00:00:00",
+    "expiration_date": "2024-08-08T00:00:00",
+    "policy_number": "02-3458198-HO 1",
+    "policy_type_code": "PPKG",
+    "policy_source": "Azibo",
+    "issuing_company": "TRACA1",
+    "premium": "1400",
+    "premium_payable_type": "CA",
+    "premium_payable_company": "TRAVE1",
+    "employee_lookup_code": "BROER1",
+    "commission_agreement_id": "68455",
+    "department": "PL",
+    "lines": [
+        {
+            "issuing_location_code": "WI",
+            "line_type_code": "AUTO",
+            "profit_center_code": "DEF",
+            "status_code": "NEW"
+        },
+         {
+            "issuing_location_code": "IL",
+            "line_type_code": "HOME",
+            "profit_center_code": "DEF",
+            "status_code": "NEW"
+        },
+        {
+            "issuing_location_code": "NY",
+            "line_type_code": "FIRE",
+            "profit_center_code": "DEF",
+            "status_code": "NEW"
+        }
+    ]
+}

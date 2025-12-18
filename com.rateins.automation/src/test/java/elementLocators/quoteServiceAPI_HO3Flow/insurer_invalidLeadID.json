@@ -1,0 +1,28 @@
+{
+    "policy_type": "ho3",
+    "home": {
+        "applicant": {
+            "date_of_birth": "3/17/1980",
+            "first_name": "Kane",
+            "last_name": "Janie",
+            "marital_status": "Married",
+            "phone_number": "5555555555"
+        },
+        "co_applicant": {
+            "date_of_birth": "3/17/1980",
+            "first_name": "Lane",
+            "last_name": "Janie",
+            "marital_status": "Married",
+            "relation_to_applicant": "Spouse"
+        },
+        "insured_property": {
+            "city": "Phoenix",
+            "purchase_date": "3/17/2020",
+            "state": "AZ",
+            "street_name": "S 76TH LN",
+            "street_number": "4201",
+            "zip": "85043"
+        }
+    },
+    "lead_id": "abcdefgh-f7ba-90a5-ace06e75887a"
+}
